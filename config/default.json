@@ -1,0 +1,9 @@
+{
+  "db": {
+    "user": "andrii",
+    "password": "root",
+    "host": "localhost",
+    "port": 5432,
+    "database": "check-list"
+  }
+}
